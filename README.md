@@ -7,17 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nauman-irshad" alt="nauman-irshad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h4 align="start" > -Proficient in: Flutter, Java, Kotlin, HTML, CSS, JavaScript, Python</h3> <h4 align="start" > -Familiar with: Angular, Firebase, Google Cloud Platform, AWS Cloud, Tailwind</h3>
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
-<p>Welcome to my page! </br> I'm Nauman irshad ali shah</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Lahore, Punjab Pakistan</b>. </p>
-
-
-
-
 <h3>Technical Skills</h3>
 
 
