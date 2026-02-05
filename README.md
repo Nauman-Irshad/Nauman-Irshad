@@ -9,7 +9,7 @@
 
 🧠 **About Me**
 
-As an AI researcher and Flutter developer, I have strong hands-on experience in Mini-LLMs, conversational AI, machine learning, computer vision, and mobile application development. I am a co-author of a research publication on "depth estimation using OpenPose COCO and MPI models", with a strong focus on publication-oriented and applied research.
+As an AI researcher and Flutter developer, I have strong hands-on experience in Mini-LLMs, conversational AI, machine learning, computer vision, and mobile application development. I am a co-author of a research publication on **"Comparative Analysis of OpenPose COCO and MPI Models for Depth Estimation from 2D Human Images"**, highlighting my work in computer vision and 3D human pose estimation, with a strong focus on publication-oriented and applied research.
 
 As a researcher and developer, I am currently working on advanced AI systems including 3D avatar generation using PIFuHD for metaverse applications, AI-based virtual try-on systems, secure medical NLP chatbots, and an AI assistant powered by Mini-LLM architectures such as `sentence-transformers/all-MiniLM-L6-v2`.
 
