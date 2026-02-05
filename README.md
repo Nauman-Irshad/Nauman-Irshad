@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nauman Irshad Ali Shah</h1>
-<h3 align="center">Full-Stack Developer | IEEE International Member (2025) | Building Modern Web & Mobile Applications</h3>
+
 
 As an AI researcher and Flutter developer, I have strong hands-on experience in Mini-LLMs, conversational AI, machine learning, computer vision, and mobile application development, and I am a co-author of a research publication on depth estimation using OpenPose COCO and MPI models.
 
