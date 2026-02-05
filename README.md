@@ -19,6 +19,21 @@ As an innovator and content creator, I founded **Fluent AI**, an AI-powered Engl
 
 ---
 
+💼 **Projects**
+
+- **Jovix**: An innovative e-commerce platform connecting buyers and sellers globally, featuring global marketplace, dynamic vouchers, diverse categories, secure authentication, audio introduction, admin user profile, real-time notifications, and a Gemini-powered live chatbot. Developed in collaboration with Abdullah Habib.  
+- **3D Avatar Generation (PIFuHD)**: Creating 3D avatars for Metaverse applications using PIFuHD and advanced computer vision techniques.  
+- **Virtual Try-On Systems**: AI-based systems for apparel and accessory visualization in real time.  
+- **Secure Medical NLP Chatbot**: AI-powered chatbot for medical guidance and secure communication.  
+- **AI Assistant using Mini-LLMs**: Conversational AI assistant leveraging `sentence-transformers/all-MiniLM-L6-v2`.  
+- **AI-Integrated Security Measures**: Systems incorporating AI for enhanced cybersecurity and anomaly detection.  
+- **NLP Project: GPT-2 Fine-Tuning**: Fine-tuned GPT-2 on a 120k-song corpus for song prediction and generation.  
+- **Python Projects**: Audio MIDI Editor/Generator.  
+- **GoLang Projects**: Image Color Picker Tool.  
+- **JavaScript Projects**: JS Animator.  
+
+---
+
 🔬 **Research Interests**
 - Artificial Intelligence & Machine Learning  
 - Mini Large Language Models (Mini-LLMs)  
@@ -55,13 +70,12 @@ As an innovator and content creator, I founded **Fluent AI**, an AI-powered Engl
 ---
 
 📌 **Current Focus**
-- 📄 Research Publications in AI & ML  
-- 🧍 3D Avatars & Virtual Try-On Systems  
-- 🗣️ Conversational AI & Voice Agents  
-- 📱 AI-Integrated Mobile Applications  
+- Research Publications in AI & ML  
+- 3D Avatars & Virtual Try-On Systems  
+- Conversational AI & Voice Agents  
+- AI-Integrated Mobile Applications  
 
 ---
 
 🤝 **Let’s Collaborate**
-I’m open to research collaboration, AI product development, and publication-oriented projects in AI, Machine Learning, Computer Vision, NLP, and Cybersecurity.
-
+I’m open to research collaboration, AI product development, and publication-oriented projects in AI, Machine Learning, Computer Vision, NLP, and Cybersecurity. I am also seeking guidance and direction to grow further in the AI and Machine Learning fields.
