@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nauman Irshad Ali Shah</h1>
-<h3 align="center">🤖 AI Researcher | Mini-LLMs | Conversational AI | Flutter Developer</h3>
+<h3 align="center"> AI Researcher | Mini-LLMs | Conversational AI | Flutter Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naumanirshad&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -7,7 +7,7 @@
 
 ---
 
-🧠 **About Me**
+ **About Me**
 
 As an AI researcher and Flutter developer, I have strong hands-on experience in Mini-LLMs, conversational AI, machine learning, computer vision, and mobile application development. I am a co-author of a research publication on **"Comparative Analysis of OpenPose COCO and MPI Models for Depth Estimation from 2D Human Images"**, highlighting my work in computer vision and 3D human pose estimation, with a strong focus on publication-oriented and applied research.
 
@@ -19,7 +19,7 @@ As an innovator and content creator, I founded **Fluent AI**, an AI-powered Engl
 
 ---
 
-💼 **Projects**
+ **Projects**
 
 - **Jovix**: An innovative e-commerce platform connecting buyers and sellers globally, featuring global marketplace, dynamic vouchers, diverse categories, secure authentication, audio introduction, admin user profile, real-time notifications, and a Gemini-powered live chatbot. Developed in collaboration with Abdullah Habib.  
 - **3D Avatar Generation (PIFuHD)**: Creating 3D avatars for Metaverse applications using PIFuHD and advanced computer vision techniques.  
@@ -43,7 +43,7 @@ As an innovator and content creator, I founded **Fluent AI**, an AI-powered Engl
 
 ---
 
-🛠 **Tech Stack**
+**Tech Stack**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -69,7 +69,7 @@ As an innovator and content creator, I founded **Fluent AI**, an AI-powered Engl
 
 ---
 
-📌 **Current Focus**
+ **Current Focus**
 - Research Publications in AI & ML  
 - 3D Avatars & Virtual Try-On Systems  
 - Conversational AI & Voice Agents  
@@ -77,5 +77,5 @@ As an innovator and content creator, I founded **Fluent AI**, an AI-powered Engl
 
 ---
 
-🤝 **Let’s Collaborate**
+ **Let’s Collaborate**
 I’m open to research collaboration, AI product development, and publication-oriented projects in AI, Machine Learning, Computer Vision, NLP, and Cybersecurity. I am also seeking guidance and direction to grow further in the AI and Machine Learning fields.
